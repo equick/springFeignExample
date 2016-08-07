@@ -8,7 +8,6 @@ import demo.dao.ArticleClient;
 import demo.dao.NounClient;
 import demo.dao.SubjectClient;
 import demo.dao.VerbClient;
-import demo.dao.WordDao;
 
 /**
  * Build a sentence by assembling randomly generated subjects, verbs, 
